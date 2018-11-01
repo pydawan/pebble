@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://pebbletemplates.github.io/pebble/changelog</loc>
+        <lastmod>2018-10-31T23:15:37.585</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>http://pebbletemplates.github.io/pebble/contributing</loc>
+        <lastmod>2018-10-31T23:15:37.626</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>http://pebbletemplates.github.io/pebble/twig-compatibility</loc>
+        <lastmod>2018-10-31T23:15:37.629</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    
+</urlset>

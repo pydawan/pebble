@@ -1,0 +1,68 @@
+{
+  "ownKey": "index",
+  "childrenPages": {"meta": {
+    "ownKey": "meta",
+    "ownPages": [
+      {
+        "reference": {
+          "path": "meta",
+          "baseUrl": "http://pebbletemplates.github.io/pebble",
+          "fileName": "home.index",
+          "extension": "json",
+          "usePrettyUrl": false,
+          "link": "http://pebbletemplates.github.io/pebble/meta/home.index.json"
+        },
+        "description": "",
+        "title": "Home . Index"
+      },
+      {
+        "reference": {
+          "path": "meta",
+          "baseUrl": "http://pebbletemplates.github.io/pebble",
+          "fileName": "javadoc.index",
+          "extension": "json",
+          "usePrettyUrl": false,
+          "link": "http://pebbletemplates.github.io/pebble/meta/javadoc.index.json"
+        },
+        "description": "",
+        "title": "Javadoc . Index"
+      },
+      {
+        "reference": {
+          "path": "meta",
+          "baseUrl": "http://pebbletemplates.github.io/pebble",
+          "fileName": "pages.index",
+          "extension": "json",
+          "usePrettyUrl": false,
+          "link": "http://pebbletemplates.github.io/pebble/meta/pages.index.json"
+        },
+        "description": "",
+        "title": "Pages . Index"
+      },
+      {
+        "reference": {
+          "path": "meta",
+          "baseUrl": "http://pebbletemplates.github.io/pebble",
+          "fileName": "wiki.index",
+          "extension": "json",
+          "usePrettyUrl": false,
+          "link": "http://pebbletemplates.github.io/pebble/meta/wiki.index.json"
+        },
+        "description": "",
+        "title": "Wiki . Index"
+      },
+      {
+        "reference": {
+          "path": "meta",
+          "baseUrl": "http://pebbletemplates.github.io/pebble",
+          "fileName": "all.index",
+          "extension": "json",
+          "usePrettyUrl": false,
+          "link": "http://pebbletemplates.github.io/pebble/meta/all.index.json"
+        },
+        "description": "",
+        "title": "All . Index"
+      }
+    ]
+  }}
+}
